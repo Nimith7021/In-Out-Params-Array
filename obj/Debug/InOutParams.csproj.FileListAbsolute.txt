@@ -1,0 +1,7 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\InOutParams\bin\Debug\InOutParams.exe.config
+C:\Users\nimith.shetty\Desktop\AproSCM\InOutParams\bin\Debug\InOutParams.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\InOutParams\bin\Debug\InOutParams.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\InOutParams\obj\Debug\InOutParams.csproj.AssemblyReference.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\InOutParams\obj\Debug\InOutParams.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\InOutParams\obj\Debug\InOutParams.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\InOutParams\obj\Debug\InOutParams.pdb
